@@ -1,4 +1,4 @@
-package br.com.proway.cursojava;
+package br.com.proway.cursojava.Aula1;
 
 public class OperadoresMatematicos {
 
