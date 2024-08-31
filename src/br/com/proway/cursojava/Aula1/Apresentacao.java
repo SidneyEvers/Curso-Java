@@ -1,4 +1,4 @@
-package br.com.proway.cursojava;
+package br.com.proway.cursojava.Aula1;
 
 public class Apresentacao {
     public static void main(String[] args) {

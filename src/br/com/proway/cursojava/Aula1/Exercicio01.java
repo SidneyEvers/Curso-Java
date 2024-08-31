@@ -1,6 +1,5 @@
-package br.com.proway.cursojava;
+package br.com.proway.cursojava.Aula1;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Exercicio01 {
